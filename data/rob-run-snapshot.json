@@ -1,0 +1,678 @@
+{
+  "fetchedAt": "2026-11-16T20:00:21Z",
+  "count": 11,
+  "entities": [
+    {
+      "type": "game_meta",
+      "name": "ROB RUN",
+      "fields": {
+        "appid": 4262460,
+        "name": "ROB RUN",
+        "type": "game",
+        "is_free": true,
+        "developer": [
+          "Kefir"
+        ],
+        "publisher": [
+          "Kefir"
+        ],
+        "release_date": "Nov 4, 2026",
+        "release_coming_soon": false,
+        "stage": "Steam Early Access (Nov 4, 2026); planned EA term 6-12 months per store page",
+        "genres": [
+          "Action",
+          "Massively Multiplayer",
+          "RPG",
+          "Simulation",
+          "Free To Play",
+          "Early Access"
+        ],
+        "categories": [
+          "Multi-player",
+          "MMO",
+          "PvP",
+          "Online PvP",
+          "Co-op",
+          "Online Co-op",
+          "In-App Purchases",
+          "Steam Cloud",
+          "Family Sharing"
+        ],
+        "supported_languages": [
+          {
+            "name": "English*",
+            "full_audio": true
+          },
+          {
+            "name": "Russian*",
+            "full_audio": true
+          },
+          {
+            "name": "French",
+            "full_audio": false
+          },
+          {
+            "name": "German",
+            "full_audio": false
+          },
+          {
+            "name": "Spanish - Spain",
+            "full_audio": false
+          },
+          {
+            "name": "Portuguese - Brazil",
+            "full_audio": false
+          }
+        ],
+        "required_age": 0,
+        "age_ratings": {
+          "dejus": {
+            "rating": "16",
+            "banned": "0",
+            "descriptors": "Drogas ilícitas\nLinguagem imprópria\nNudez"
+          },
+          "steam_germany": {
+            "rating": "16",
+            "banned": "0",
+            "descriptors": "Drogen\nSexuelle Inhalte\nDrastische Gewalt"
+          },
+          "igrs": {
+            "rating": "BANNED",
+            "banned": "1",
+            "descriptors": "Simulasi dan/atau kegiatan judi\nInteraksi Daring\nRokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya"
+          }
+        },
+        "content_descriptors_note": "RobRun may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence involving firearms (no dismemberment or excessive gore — bodies despawn over time), Partial Nudity (a nightclub location featuring a stripper exposing her breasts, and characters wearing revealing/tight clothing), mild references to drug-related substances, In-Game Gambling (a roulette mechanic using virtual/in-game currency only), and criminal gameplay elements such as robbery, arrest, and shootouts with other players.",
+        "support_info": {
+          "url": "https://kefirgames.helpshift.com/hc/ru/14-rob-run/",
+          "email": "robrun.support@kefircyprus.com"
+        },
+        "website": null,
+        "official_trailers": [
+          {
+            "name": "RobRun Official Trailer",
+            "steam_movie_id": 257316245
+          },
+          {
+            "name": "Rob Run Official Cinematic Trailer",
+            "steam_movie_id": 257396463
+          }
+        ],
+        "screenshot_count": 10
+      },
+      "sources": [
+        {
+          "kind": "api",
+          "ref": "appdetails appids=4262460 (l=english cc=US)",
+          "verifiedAt": "2026-11-16T20:00:21Z"
+        }
+      ],
+      "checkedAt": "2026-11-16T20:00:21Z"
+    },
+    {
+      "type": "live_status",
+      "name": "Server status",
+      "fields": {
+        "live_read": {
+          "player_count": 527199,
+          "api_result_ok": true,
+          "checkedAt": "2026-11-16T20:00:11Z",
+          "caveat": "GetNumberOfCurrentPlayers returning success shows the stats endpoint is healthy; it is not a direct server-health probe. Server-affecting incidents are tracked via official posts below."
+        },
+        "servers_first_opened": "Nov 4, 2026, 5 PM UTC (Nov 3, 2026 official announcement)",
+        "regions": [
+          "EU",
+          "East US"
+        ],
+        "fresh_server_schedule": "At least one fresh server per day per region: EU 5 PM UTC / East US 8 PM ET; additional servers open automatically under load, including outside scheduled times",
+        "schedule_source_post": {
+          "title": "ROB RUN: First Changes & Server Schedule",
+          "date": "2026-11-04"
+        },
+        "server_affecting_posts": [
+          {
+            "gid": "1849458702684655",
+            "title": "Technical Issues on EU Servers",
+            "date": "2026-11-14",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702684655",
+            "feedlabel": "Community Announcements",
+            "origin": "kefir",
+            "contents_chars": 321
+          },
+          {
+            "gid": "1849192144187218",
+            "title": "ROB RUN: Answering Your Most Frequently Asked Questions",
+            "date": "2026-11-13",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144187218",
+            "feedlabel": "Community Announcements",
+            "origin": "kefir",
+            "contents_chars": 5383
+          },
+          {
+            "gid": "1849192144183598",
+            "title": "Авторы Rob Run представили геймплейный трейлер с перестрелками и ограблениями",
+            "date": "2026-11-12",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849192144183598",
+            "feedlabel": "PlayGround.ru - официальная группа",
+            "origin": "third-party-forwarded",
+            "contents_chars": 804
+          },
+          {
+            "gid": "1848664643354468",
+            "title": "В Steam набирает популярность криминальный боевик ROB RUN с войнами кланов - игра собрала 140 тысяч игроков",
+            "date": "2026-11-09",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848664643354468",
+            "feedlabel": "PlayGround.ru - официальная группа",
+            "origin": "third-party-forwarded",
+            "contents_chars": 2907
+          },
+          {
+            "gid": "1848664643346313",
+            "title": "ROB RUN peaks at 547k players",
+            "date": "2026-11-15",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1848664643346313",
+            "feedlabel": "SteamDB",
+            "origin": "third-party-forwarded",
+            "contents_chars": 323
+          },
+          {
+            "gid": "1848557880480061",
+            "title": "ROB RUN IS OUT NOW ON STEAM!",
+            "date": "2026-11-04",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880480061",
+            "feedlabel": "Community Announcements",
+            "origin": "kefir",
+            "contents_chars": 512
+          },
+          {
+            "gid": "1848557880479055",
+            "title": "ROB RUN: First Changes & Server Schedule",
+            "date": "2026-11-04",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880479055",
+            "feedlabel": "Community Announcements",
+            "origin": "kefir",
+            "contents_chars": 3058
+          },
+          {
+            "gid": "1847920302252713",
+            "title": "ROB RUN is Out on November 4!",
+            "date": "2026-11-03",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302252713",
+            "feedlabel": "Community Announcements",
+            "origin": "kefir",
+            "contents_chars": 456
+          },
+          {
+            "gid": "1847920302245290",
+            "title": "Playtest News",
+            "date": "2026-11-01",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302245290",
+            "feedlabel": "Community Announcements",
+            "origin": "kefir",
+            "contents_chars": 1864
+          },
+          {
+            "gid": "1847920302237725",
+            "title": "ROB RUN Playtest Video Challenge!",
+            "date": "2026-10-30",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302237725",
+            "feedlabel": "Community Announcements",
+            "origin": "kefir",
+            "contents_chars": 1468
+          }
+        ],
+        "maintenance_announced": "none in this pass's news scan — see maintenance entity"
+      },
+      "sources": [
+        {
+          "kind": "api",
+          "ref": "GetNumberOfCurrentPlayers/v1 appid=4262460",
+          "verifiedAt": "2026-11-16T20:00:11Z"
+        },
+        {
+          "kind": "api",
+          "ref": "GetNewsForApp/v2 count=10 maxlength=0",
+          "verifiedAt": "2026-11-16T20:00:21Z"
+        },
+        {
+          "kind": "api",
+          "ref": "New Server Schedule section, Nov 4 2026 patch post",
+          "verifiedAt": "2026-11-16T20:00:21Z"
+        }
+      ],
+      "checkedAt": "2026-11-16T20:00:21Z"
+    },
+    {
+      "type": "schedule",
+      "name": "Wipe schedule",
+      "fields": {
+        "weekly_cycle_official_quote": "In just one week, you can go from being a regular thug to the boss of the server's largest organization. And then start over — with new experience, allies, and a more ambitious plan to seize power.",
+        "weekly_cycle_section_title": "TILL THE SERVER WIPES US OUT (Steam store description, appdetails, checked 2026-11-16)",
+        "new_server_schedule_full": "New Server Schedule\n\nROB RUN currently has two regions: EU and East US. We'll add more regions when we can.\n\nWe plan to open at least one fresh server per day in each region:\n\n- EU — 5 PM UTC\n- East US — 8 PM ET\n\nAdditional servers will open automatically as needed, including outside these scheduled times. We'll monitor server load and adjust things if necessary.\n\nThanks for playing ROB RUN and helping us make it better!",
+        "time_anchors": [
+          {
+            "what": "first servers opened",
+            "when": "Nov 4, 2026, 5 PM UTC",
+            "source": "Nov 3, 2026 announcement"
+          },
+          {
+            "what": "fresh EU server opens daily",
+            "when": "5 PM UTC",
+            "source": "'New Server Schedule', Nov 4, 2026 patch post"
+          },
+          {
+            "what": "fresh East US server opens daily",
+            "when": "8 PM ET",
+            "source": "'New Server Schedule', Nov 4, 2026 patch post"
+          }
+        ],
+        "wipe_moment_gap": "Kefir has not published the exact wipe moment/time-of-day per server; only the one-week cycle and the fresh-server opening times are official. Pages must not assert a uniform global wipe clock.",
+        "patch_caveat_official": "None of these changes are set in stone. (closing line of the Nov 4, 2026 patch notes)"
+      },
+      "sources": [
+        {
+          "kind": "api",
+          "ref": "store description via appdetails (weekly cycle)",
+          "verifiedAt": "2026-11-16T20:00:21Z"
+        },
+        {
+          "kind": "api",
+          "ref": "GetNewsForApp full contents (New Server Schedule)",
+          "verifiedAt": "2026-11-16T20:00:21Z"
+        }
+      ],
+      "checkedAt": "2026-11-16T20:00:21Z"
+    },
+    {
+      "type": "maintenance",
+      "name": "Maintenance",
+      "fields": {
+        "windows_announced": [],
+        "windows_conclusion": "No maintenance window announced in Kefir's official Steam news through this pass (2026-11-16)",
+        "scan": {
+          "source": "GetNewsForApp count=10 maxlength=0 (full contents) + news hub HTML",
+          "items_scanned": 10,
+          "pattern_hits": {
+            "maintenance": 0,
+            "downtime": 0,
+            "outage": 0,
+            "server restart": 0,
+            "servers offline": 0
+          }
+        },
+        "most_recent_kefir_post": {
+          "gid": "1849458702684655",
+          "title": "Technical Issues on EU Servers",
+          "date": "2026-11-14",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702684655",
+          "feedlabel": "Community Announcements",
+          "origin": "kefir",
+          "contents_chars": 321
+        },
+        "escalation_note": "If Kefir posts a window, it appears first in the Steam news hub; this entity re-scans on every pipeline run."
+      },
+      "sources": [
+        {
+          "kind": "api",
+          "ref": "GetNewsForApp/v2 count=10 maxlength=0",
+          "verifiedAt": "2026-11-16T20:00:21Z"
+        },
+        {
+          "kind": "page",
+          "ref": "Steam news hub HTML scan",
+          "verifiedAt": "2026-11-16T20:00:21Z"
+        }
+      ],
+      "checkedAt": "2026-11-16T20:00:21Z"
+    },
+    {
+      "type": "metric",
+      "name": "Player count",
+      "fields": {
+        "current_ccu": {
+          "value": 527199,
+          "api": "ISteamUserStats/GetNumberOfCurrentPlayers/v2",
+          "checkedAt": "2026-11-16T20:00:11Z"
+        },
+        "all_time_peak": {
+          "value": 151032,
+          "date": "2026-11-09",
+          "source": "SteamDB post forwarded in Kefir's official news hub (third-party figure, quoted with attribution per homepage-research rule)"
+        },
+        "reviews": {
+          "total_reviews": 6804,
+          "positive_pct": 46,
+          "label": "Mixed",
+          "source": "Steam store page fact-check 2026-11-10; appreviews JSON endpoint redirected to store root"
+        },
+        "series_note": "Each pipeline run appends one dated CCU reading. Readings so far: 98,876 @ Nov 10, 2026 04:03 UTC and this pass's reading above. Percentages vs peak are derived, not official."
+      },
+      "sources": [
+        {
+          "kind": "api",
+          "ref": "GetNumberOfCurrentPlayers/v1 appid=4262460",
+          "verifiedAt": "2026-11-16T20:00:11Z"
+        },
+        {
+          "kind": "api",
+          "ref": "appreviews JSON endpoint (attempted; see failures)",
+          "verifiedAt": "2026-11-16T20:00:21Z"
+        }
+      ],
+      "checkedAt": "2026-11-16T20:00:21Z"
+    },
+    {
+      "type": "platform_availability",
+      "name": "Platforms",
+      "fields": {
+        "windows": true,
+        "mac": false,
+        "linux": false,
+        "console_answer_data": {
+          "on_playstation": false,
+          "on_xbox": false,
+          "on_switch": false,
+          "as_of": "2026-11-16",
+          "basis": "appdetails platforms lists Windows only; no console announcement in Kefir's news through this pass; absence-based answers carry the check date"
+        },
+        "categories": [
+          "Multi-player",
+          "MMO",
+          "PvP",
+          "Online PvP",
+          "Co-op",
+          "Online Co-op",
+          "In-App Purchases",
+          "Steam Cloud",
+          "Family Sharing"
+        ],
+        "regional_ratings": {
+          "dejus": {
+            "rating": "16",
+            "banned": "0"
+          },
+          "steam_germany": {
+            "rating": "16",
+            "banned": "0"
+          },
+          "igrs": {
+            "rating": "BANNED",
+            "banned": "1"
+          }
+        },
+        "kefirgames_site_presence": {
+          "robrun_text_hits_on_home_html": 8,
+          "note": "kefirgames.com home reachable; game nav lists other Kefir titles; no ROB RUN studio page located"
+        }
+      },
+      "sources": [
+        {
+          "kind": "api",
+          "ref": "appdetails platforms/categories/ratings",
+          "verifiedAt": "2026-11-16T20:00:21Z"
+        },
+        {
+          "kind": "page",
+          "ref": "kefirgames.com home HTML",
+          "verifiedAt": "2026-11-16T20:00:21Z"
+        }
+      ],
+      "checkedAt": "2026-11-16T20:00:21Z"
+    },
+    {
+      "type": "requirements",
+      "name": "System requirements",
+      "fields": {
+        "minimum": [
+          "Requires a 64-bit processor and operating system",
+          "OS: Windows 10 or later",
+          "Processor: Intel Core i5-6600K or AMD Ryzen R5 1600 processor",
+          "Memory: 12 GB RAM",
+          "Graphics: NVIDIA GeForce GTX 1050 Ti or AMD Radeon RX 580 or Intel Arc A380",
+          "DirectX: Version 11",
+          "Network: Broadband Internet connection",
+          "Storage: 20 GB available space"
+        ],
+        "recommended": [
+          "Requires a 64-bit processor and operating system",
+          "OS: Windows 10 or later",
+          "Processor: Intel Core i5-9600K or AMD Ryzen 5 3600 processor",
+          "Memory: 16 GB RAM",
+          "Graphics: NVIDIA GeForce RTX 2070 or AMD Radeon RX 5700 XT or Intel Arc B570",
+          "DirectX: Version 11",
+          "Network: Broadband Internet connection",
+          "Storage: 20 GB available space"
+        ],
+        "directx_note": "DirectX version is part of the official min/recommended rows above"
+      },
+      "sources": [
+        {
+          "kind": "api",
+          "ref": "appdetails pc_requirements (minimum/recommended)",
+          "verifiedAt": "2026-11-16T20:00:21Z"
+        }
+      ],
+      "checkedAt": "2026-11-16T20:00:21Z"
+    },
+    {
+      "type": "official_channel",
+      "name": "Official Discord",
+      "fields": {
+        "invite": "https://discord.gg/robrun",
+        "invite_source": "Kefir's own Steam store page HTML",
+        "public_render": {
+          "og_title": "Join the Rob Run: Official Server Discord Server!",
+          "og_description": "The official ROB RUN Discord. | 334255 members",
+          "member_count_in_render": "334255",
+          "channel_list_in_public_render": null
+        },
+        "channel_list_note": "Channel enumeration requires joining; not collectable from any public render — pages must not invent channel names."
+      },
+      "sources": [
+        {
+          "kind": "page",
+          "ref": "discord.gg/robrun public render",
+          "verifiedAt": "2026-11-16T20:00:21Z"
+        },
+        {
+          "kind": "page",
+          "ref": "store page HTML (invite link)",
+          "verifiedAt": "2026-11-16T20:00:21Z"
+        }
+      ],
+      "checkedAt": "2026-11-16T20:00:21Z"
+    },
+    {
+      "type": "world_roster",
+      "name": "Map & zones",
+      "fields": {
+        "named_zones": [
+          {
+            "name": "Looty Bay",
+            "kind": "city (the game's single shared setting)",
+            "source": "Nov 4, 2026 launch post: 'the streets of Looty Bay are waiting'"
+          }
+        ],
+        "named_districts": [],
+        "district_layer_note": "District structure confirmed only structurally: the Nov 4, 2026 patch made police badges purchasable with district-dependent selection.",
+        "server_regions_vs_map": "'EU / East US' are server regions, not in-game map zones — kept apart to avoid conflating them on /map/.",
+        "roster_limitation": "No official map image, zone list or POI data exists on any whitelisted surface as of this pass; /map/ stays roster-level until Kefir publishes one."
+      },
+      "sources": [
+        {
+          "kind": "api",
+          "ref": "launch post via GetNewsForApp full contents",
+          "verifiedAt": "2026-11-16T20:00:21Z"
+        },
+        {
+          "kind": "api",
+          "ref": "Nov 4 patch contents (district-dependent badges)",
+          "verifiedAt": "2026-11-16T20:00:21Z"
+        }
+      ],
+      "checkedAt": "2026-11-16T20:00:21Z"
+    },
+    {
+      "type": "news_index",
+      "name": "Updates & patch index",
+      "fields": {
+        "items": [
+          {
+            "gid": "1849458702684655",
+            "title": "Technical Issues on EU Servers",
+            "date": "2026-11-14",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702684655",
+            "feedlabel": "Community Announcements",
+            "origin": "kefir",
+            "contents_chars": 321
+          },
+          {
+            "gid": "1849192144187218",
+            "title": "ROB RUN: Answering Your Most Frequently Asked Questions",
+            "date": "2026-11-13",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144187218",
+            "feedlabel": "Community Announcements",
+            "origin": "kefir",
+            "contents_chars": 5383
+          },
+          {
+            "gid": "1849192144183598",
+            "title": "Авторы Rob Run представили геймплейный трейлер с перестрелками и ограблениями",
+            "date": "2026-11-12",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849192144183598",
+            "feedlabel": "PlayGround.ru - официальная группа",
+            "origin": "third-party-forwarded",
+            "contents_chars": 804
+          },
+          {
+            "gid": "1848664643354468",
+            "title": "В Steam набирает популярность криминальный боевик ROB RUN с войнами кланов - игра собрала 140 тысяч игроков",
+            "date": "2026-11-09",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1848664643354468",
+            "feedlabel": "PlayGround.ru - официальная группа",
+            "origin": "third-party-forwarded",
+            "contents_chars": 2907
+          },
+          {
+            "gid": "1848664643346313",
+            "title": "ROB RUN peaks at 547k players",
+            "date": "2026-11-15",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1848664643346313",
+            "feedlabel": "SteamDB",
+            "origin": "third-party-forwarded",
+            "contents_chars": 323
+          },
+          {
+            "gid": "1848557880480061",
+            "title": "ROB RUN IS OUT NOW ON STEAM!",
+            "date": "2026-11-04",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880480061",
+            "feedlabel": "Community Announcements",
+            "origin": "kefir",
+            "contents_chars": 512
+          },
+          {
+            "gid": "1848557880479055",
+            "title": "ROB RUN: First Changes & Server Schedule",
+            "date": "2026-11-04",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880479055",
+            "feedlabel": "Community Announcements",
+            "origin": "kefir",
+            "contents_chars": 3058
+          },
+          {
+            "gid": "1847920302252713",
+            "title": "ROB RUN is Out on November 4!",
+            "date": "2026-11-03",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302252713",
+            "feedlabel": "Community Announcements",
+            "origin": "kefir",
+            "contents_chars": 456
+          },
+          {
+            "gid": "1847920302245290",
+            "title": "Playtest News",
+            "date": "2026-11-01",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302245290",
+            "feedlabel": "Community Announcements",
+            "origin": "kefir",
+            "contents_chars": 1864
+          },
+          {
+            "gid": "1847920302237725",
+            "title": "ROB RUN Playtest Video Challenge!",
+            "date": "2026-10-30",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302237725",
+            "feedlabel": "Community Announcements",
+            "origin": "kefir",
+            "contents_chars": 1468
+          }
+        ],
+        "latest_item": {
+          "gid": "1849458702684655",
+          "title": "Technical Issues on EU Servers",
+          "date": "2026-11-14",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702684655",
+          "feedlabel": "Community Announcements",
+          "origin": "kefir",
+          "contents_chars": 321
+        },
+        "latest_patch": {
+          "title": "ROB RUN: First Changes & Server Schedule",
+          "date": "2026-11-04"
+        },
+        "coverage_from": "2026-10-30",
+        "full_text_kept_in": "raw BBCode contents preserved in"
+      },
+      "sources": [
+        {
+          "kind": "api",
+          "ref": "GetNewsForApp/v2 count=10 maxlength=0",
+          "verifiedAt": "2026-11-16T20:00:21Z"
+        }
+      ],
+      "checkedAt": "2026-11-16T20:00:21Z"
+    },
+    {
+      "type": "codes_status",
+      "name": "Codes status",
+      "verification_status": "official-verified",
+      "fields": {
+        "codes": [],
+        "conclusion": "No official redeem-code system as of 2026-11-16",
+        "verification_chain": [
+          {
+            "date": "2026-11-10",
+            "pass": "direct homepage verification",
+            "finding": "Steam news hub scan: 10 posts back to Oct 16, 2026, none announces a code/giveaway/redemption system; store category list has no code-entry mechanism; playtest Oct 30 rewarded via judged video submissions (POWER skin), not codes"
+          },
+          {
+            "date": "2026-11-16",
+            "pass": "site-wide consistency pass",
+            "finding": "Re-scan of fresh GetNewsForApp full contents (10 items) + news hub HTML + discord.gg/robrun public render: ZERO hits for every code-indicative pattern scanned (redeem, redeem code, gift key, giveaway, promo code, activation key) — still no code or redemption mechanic on any whitelisted official surface"
+          }
+        ],
+        "fake_code_warning": "Until Kefir ships a code system, any 'ROB RUN code' offered elsewhere is fake — pages state this with the check date.",
+        "official_reward_precedent": "Oct 30, 2026 playtest video challenge granted an exclusive POWER skin via judged submission form — reward-by-form, not by code."
+      },
+      "sources": [
+        {
+          "kind": "api",
+          "ref": "GetNewsForApp full contents (codes scan)",
+          "verifiedAt": "2026-11-16T20:00:21Z"
+        },
+        {
+          "kind": "page",
+          "ref": "news hub HTML (codes scan)",
+          "verifiedAt": "2026-11-16T20:00:21Z"
+        },
+        {
+          "kind": "page",
+          "ref": "discord.gg/robrun public render (codes scan)",
+          "verifiedAt": "2026-11-16T20:00:21Z"
+        }
+      ],
+      "checkedAt": "2026-11-16T20:00:21Z"
+    }
+  ]
+}
